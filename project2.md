@@ -118,3 +118,27 @@ sudo rm /var/www/your_domain/info.php
 
 
 # STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP
+
+sudo mysql -p
+
+![mysql](Images/sudo-mysql-p.jpg)
+
+
+
+CREATE DATABASE example_database; 
+
+![mysql](Images/creating-database.jpg)
+
+CREATE USER AND SHOW DATABASE
+
+![mysql](Images/show-database.jpg)
+
+TO DO Code
+
+![mysql](Images/todo-code.jpg)
+
+
+To Do Webpage APP
+
+
+![mysql](Images/todo-webpage.jpg)
